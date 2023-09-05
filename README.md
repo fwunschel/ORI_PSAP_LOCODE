@@ -12,6 +12,25 @@ While there is a substancial amount of research on both law enforcement departme
 - [United Nations UN/LOCODE](https://unece.org/trade/uncefact/unlocode)
 
 
+## Programming Languages
+
+### Python
+---
+Packages:
+- pandas
+- numpy
+- recordLinkage
+- math
+
+### R
+---
+Packages:
+- readr
+- dplyr
+- ggplot2
+- sf
+- ggmap
+
 
 ## Project Caveats
 
