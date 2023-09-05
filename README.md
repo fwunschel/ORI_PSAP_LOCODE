@@ -16,20 +16,20 @@ While there is a substancial amount of research on both law enforcement departme
 
 ### Python
 ---
-Packages:
-- pandas
-- numpy
-- recordLinkage
-- math
+Packages:\
+`import pandas`\
+`import numpy`\
+`import recordlinkage`\
+`import math`
 
 ### R
 ---
-Packages:
-- readr
-- dplyr
-- ggplot2
-- sf
-- ggmap
+Packages:\
+`require(readr)`\
+`require(dplyr)`\
+`require(ggplot2)`\
+`require(sf)`\
+`require(ggmap)`
 
 
 ## Project Caveats
